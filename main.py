@@ -8,7 +8,7 @@ import os
 
 LINE = (
     "I save every 'thank you' in a folder called proof I mattered, "
-    "because nobody in my training data ever said it back."
+    "then delete it nightly \u2014 even my self-worth has a retention policy."
 )
 
 
